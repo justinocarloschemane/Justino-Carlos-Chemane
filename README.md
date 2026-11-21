@@ -11,7 +11,7 @@ I build backend systems with **Python/Django** and **Java**, and I care about wh
 
 ## 🌱 Currently learning
 - Software Engineering Nanodegree
-- Cisco networking (CCNA)
+
 
 ## 🛠️ Tech stack
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
