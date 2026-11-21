@@ -23,7 +23,7 @@ I build backend systems with **Python/Django** and **Java**, and I care about wh
 
 ## 🎓 Certifications
 - Google IT Support Professional Certificate
-- Cisco CCNA 1 v7 (CCNA 2 in progress)
+- Cisco CCNA 1-3 v7 (CCNA)
 - Data Scientist and Machine Learning, Dive Into Code
 
 ## 📫 Contact
